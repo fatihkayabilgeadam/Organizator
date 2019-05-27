@@ -1,0 +1,12 @@
+c:\users\administrator\source\repos\Organizer_UI\Organizer_Entitiy\bin\Debug\Organizer_Entitiy.dll.config
+c:\users\administrator\source\repos\Organizer_UI\Organizer_Entitiy\bin\Debug\Organizer_Entitiy.dll
+c:\users\administrator\source\repos\Organizer_UI\Organizer_Entitiy\bin\Debug\Organizer_Entitiy.pdb
+c:\users\administrator\source\repos\Organizer_UI\Organizer_Entitiy\bin\Debug\EntityFramework.dll
+c:\users\administrator\source\repos\Organizer_UI\Organizer_Entitiy\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\administrator\source\repos\Organizer_UI\Organizer_Entitiy\bin\Debug\EntityFramework.xml
+c:\users\administrator\source\repos\Organizer_UI\Organizer_Entitiy\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\administrator\source\repos\Organizer_UI\Organizer_Entitiy\obj\Debug\Organizer_Entitiy.csprojAssemblyReference.cache
+c:\users\administrator\source\repos\Organizer_UI\Organizer_Entitiy\obj\Debug\Organizer_Entitiy.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\Organizer_UI\Organizer_Entitiy\obj\Debug\Organizer_Entitiy.csproj.CopyComplete
+c:\users\administrator\source\repos\Organizer_UI\Organizer_Entitiy\obj\Debug\Organizer_Entitiy.dll
+c:\users\administrator\source\repos\Organizer_UI\Organizer_Entitiy\obj\Debug\Organizer_Entitiy.pdb
